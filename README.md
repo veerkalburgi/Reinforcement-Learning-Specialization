@@ -1,1 +1,1 @@
-$Reinforcement Learning coursea$
+Reinforcement Learning Specialization coursea
